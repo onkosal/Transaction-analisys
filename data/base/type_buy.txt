@@ -1,5 +1,0 @@
-OOO OBEDOV:kafe:Обедов
-PYATEROCHKA:supermarket:Пятерочка
-KIO- KITCHEN:supermarket:КИО Кухня
-TOK3 Агрегатор эксп.дост.:supermarket:Доставка Пятерочка
-Сервисы Яндекса:yandex:Сервисы Яндекса
